@@ -2,5 +2,5 @@
 <br>
 First Python program
 <br>
-  --Author - Sourav Halder
+  Author - Sourav Halder
   
